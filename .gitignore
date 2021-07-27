@@ -1,0 +1,10 @@
+# ignores everything...
+/*
+
+# except:
+!.config
+.config/*
+!.config/starship.toml
+!.gitignore
+!LICENSE
+!README.md
